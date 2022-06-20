@@ -4,9 +4,9 @@ crystal api
 endpoints
 ---------
 
-## GET /:name
+## GET /api/:name
 ```bash
-# GET /:amethyst
+# GET /api/:amethyst
 {
   "composition": "silicon dioxide",
   "formation": "forms when gas bubbles occur in lava and become trapped",

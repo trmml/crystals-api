@@ -1,0 +1,12 @@
+extends layout
+
+block layout-content
+  h1(class="title") Crystals
+  form(action="/api/search" method="post")
+    input(class="input" type="text", name="query" value="amethyst")
+    input(class="button is-primary" type="submit" value="Search")
+  
+  ul
+    each crystal in Object.keys(crystals)
+      li
+        a(href="/crystal/#{crystal}")= crystal
