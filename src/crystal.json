@@ -1,0 +1,50 @@
+{
+	"amethyst": {
+		"composition": "silicon dioxide",
+		"formation": "forms when gas bubbles occur in lava and become trapped",
+		"colour": "purple",
+		"metaphysical": ["calming", "healing", "especially for headaches", "fatigue, & anxiety"]
+	},
+	"clear quartz": {
+		"composition": "silicon dioxide",
+		"formation": "forms when gas bubbles occur in lava and become trapped",
+		"colour": "colourless or appears white",
+		"metaphysical": "master healer for all ailments; amplifies the healing vibration of other stones placed nearby"
+	},
+	"moss agate": {
+		"composition": "silicon dioxide, commonly featuring manganese or iron",
+		"formation": "formed from weathered volcanic rock",
+		"colour": "colourless with specks of white, green, blue, or brown",
+		"metaphysical": ["gentle healing", "promotes tranquility", "cures physical ailments (inflammation, cold & flu)"]
+	},
+	"carnelian": {
+		"composition": "silicon dioxide with iron impurity",
+		"formation": "formed from a combination of the silica minerals quartz and moganite",
+		"colour": "orange or red often featuring yellow",
+		"metaphysical": ["promotes life-force", "vitality", "energizes body and mind"]
+	},
+	"spirit quartz": {
+		"composition": "silicon dioxide",
+		"formation": "forms when gas bubbles occur in lava and become trapped",
+		"colour": "purple, yellowish brown, light grey",
+		"metaphysical": ["assists in spiritual journey", "uplifts and promotes vibration"]
+	},
+	"amazonite": {
+		"composition": "potassium feldspar",
+		"formation": "formed in deep sea igneous rocks that cool very slowly",
+		"colour": "blue or green with white speckles or lines",
+		"metaphysical": ["Soothes anxiety and overthinking", "helps heal emotional trauma"]
+	},
+	"tourmaline": {
+		"composition": "silicate of boron and aluminum",
+		"formation": "Pegmatite pockets underground that slowly cool and form crystals",
+		"colour": "black or pink",
+		"metaphysical": ["repels negative energy", "highly protective"]
+	},
+	"pyrite": {
+		"composition": "iron sulfide",
+		"formation": "forms in sedimentary rocks in low oxygen environments",
+		"colour": "gold",
+		"metaphysical": ["abundance", "good luck", "emotional strength"]
+	}
+}
