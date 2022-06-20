@@ -37,6 +37,10 @@ app.post('/api/search', (req, res) => {
     res.render('crystal', {query: query, result: result})
 });
 
+app.get('/api/crystals', (req, res) => {
+    res.json(crystal);
+});
+
 // /api/:amethyst
 app.get('/api/:name', (req, res) => {
     if (!req.params || !req.params['name'])
