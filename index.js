@@ -19,6 +19,15 @@ app.get('/web/search', (req, res) => {
     res.render('index', {crystals: crystal});
 });
 
+app.get('/web/:crystal', (req, res) => {
+    if (!req.params || !req.params['crystal'])
+        return res.status(400).send({error: 'crystal not provided'});
+
+    const query = req.params['crystal'];
+
+    res.render('crystal', {query: query, result: crystal[query]});
+});
+
 app.post('/api/search', (req, res) => {
     if (!req.body || !req.body.query)
         return res.status(400).send({error: 'crystal not provided'});
@@ -37,7 +46,11 @@ app.get('/api/:name', (req, res) => {
     res.json(crystal[name]);
 });
 
-app.get(['/', '*'], (req, res) => {
+app.get('/', (req, res) => {
+    res.status(400).send({'error': 'params not provider'});
+});
+
+app.get('*', (req, res) => {
     res.status(404).send({error: 'not found'})
 });
 
