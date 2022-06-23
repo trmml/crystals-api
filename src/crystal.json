@@ -46,5 +46,53 @@
 		"formation": "forms in sedimentary rocks in low oxygen environments",
 		"colour": "gold",
 		"metaphysical": ["abundance", "good luck", "emotional strength"]
+	},
+	"Sapphire": {
+		"composition": "aluminum oxide",
+		"formation": "the rocks in the earth’s crust were subjected to immense pressure & high temperatures, forcing the atoms to combine into metamorphic rocks",
+		"colour": "blue, purple",
+		"metaphysical": ["enhances concentration", "boosts creativity", "promotes thinking"]
+	},
+	"black onyx": {
+		"composition": "Silicon dioxide ",
+		"formation": "formed in stalactites & stalagmites",
+		"colour": "black, sometimes with brown imperfections",
+		"metaphysical": ["promotes stamina", "increases self-confidence", "reduces feelings of grief"]
+	},
+	"rainbow onyx ": {
+		"composition": "Silicon dioxide",
+		"formation": "formed in stalactites & stalagmites",
+		"colour": "black with striped undertones",
+		"metaphysical": ["balances emotions", "improves emotional strength", "decreases stress"]
+	},
+	"red jasper": {
+		"composition": "silicon dioxide",
+		"formation": "volcanic ash cemented into solids from silica solutions",
+		"colour": "red, or red with some black imperfections",
+		"metaphysical": ["balance", "persistence", "strength", "courage"]
+	},
+	"ocean jasper": {
+		"composition": "silicon dioxide",
+		"formation": "volcanic ash cemented into solids from silica solutions",
+		"colour": "green, blue, brown, black, white",
+		"metaphysical": ["uplifting", "calming", "optimistic outlook"]
+	},
+	"mookite": {
+		"composition": "silicon dioxide",
+		"formation": "volcanic ash cemented into solids from silica solutions",
+		"colour": "red, yellow",
+		"metaphysical": ["decision making", "reduces stress", "feeling of wholeness", "peace"]
+	},
+	"rose quartz": {
+		"composition": "silicon dioxide",
+		"formation": "forms when gas bubbles occur in lava and become trapped",
+		"colour": "pink",
+		"metaphysical": ["self-love", "release emotional blockages", "connect to the heart"]
+	},
+	"emerald": {
+		"composition": "Beryllium aluminum silicate ",
+		"formation": "Magma cools and leaves Beryllium behind in the remaining fluid",
+		"colour": "green, sometimes with black imperfections",
+		"metaphysical": ["attracts true love", "balances relationships", "good luck stone"]
 	}
 }
