@@ -10,14 +10,14 @@
 		"composition": "silicon dioxide",
 		"formation": "forms when gas bubbles occur in lava and become trapped",
 		"colour": "colourless or appears white",
-		"image": "https://lit-castle-74820.herokuapp.com/img/clear quarts.jpg",
+		"image": "https://lit-castle-74820.herokuapp.com/img/clear_quarts.jpg",
 		"metaphysical": ["master healer for all ailments", "amplifies the healing vibration of other stones placed nearby"]
 	},
 	"moss agate": {
 		"composition": "silicon dioxide, commonly featuring manganese or iron",
 		"formation": "formed from weathered volcanic rock",
 		"colour": "colourless with specks of white, green, blue, or brown",
-		"image": "https://lit-castle-74820.herokuapp.com/img/moss agate.jpg",
+		"image": "https://lit-castle-74820.herokuapp.com/img/moss_agate.jpg",
 		"metaphysical": ["gentle healing", "promotes tranquility", "cures physical ailments (inflammation, cold & flu)"]
 	},
 	"carnelian": {
@@ -31,7 +31,7 @@
 		"composition": "silicon dioxide",
 		"formation": "forms when gas bubbles occur in lava and become trapped",
 		"colour": "purple, yellowish brown, light grey",
-		"image": "https://lit-castle-74820.herokuapp.com/img/spirit quarts.jpg",
+		"image": "https://lit-castle-74820.herokuapp.com/img/spirit_quarts.jpg",
 		"metaphysical": ["assists in spiritual journey", "uplifts and promotes vibration"]
 	},
 	"amazonite": {
@@ -66,28 +66,28 @@
 		"composition": "Silicon dioxide ",
 		"formation": "formed in stalactites & stalagmites",
 		"colour": "black, sometimes with brown imperfections",
-		"image": "https://lit-castle-74820.herokuapp.com/img/black onyx.jpg",
+		"image": "https://lit-castle-74820.herokuapp.com/img/black_onyx.jpg",
 		"metaphysical": ["promotes stamina", "increases self-confidence", "reduces feelings of grief"]
 	},
 	"rainbow onyx ": {
 		"composition": "Silicon dioxide",
 		"formation": "formed in stalactites & stalagmites",
 		"colour": "black with striped undertones",
-		"image": "https://lit-castle-74820.herokuapp.com/img/rainbow onyx.jpg",
+		"image": "https://lit-castle-74820.herokuapp.com/img/rainbow_onyx.jpg",
 		"metaphysical": ["balances emotions", "improves emotional strength", "decreases stress"]
 	},
 	"red jasper": {
 		"composition": "silicon dioxide",
 		"formation": "volcanic ash cemented into solids from silica solutions",
 		"colour": "red, or red with some black imperfections",
-		"image": "https://lit-castle-74820.herokuapp.com/img/red jasper.jpg",
+		"image": "https://lit-castle-74820.herokuapp.com/img/red_jasper.jpg",
 		"metaphysical": ["balance", "persistence", "strength", "courage"]
 	},
 	"ocean jasper": {
 		"composition": "silicon dioxide",
 		"formation": "volcanic ash cemented into solids from silica solutions",
 		"colour": "green, blue, brown, black, white",
-		"image": "https://lit-castle-74820.herokuapp.com/img/ocean jasper.jpg",
+		"image": "https://lit-castle-74820.herokuapp.com/img/ocean_jasper.jpg",
 		"metaphysical": ["uplifting", "calming", "optimistic outlook"]
 	},
 	"mookite": {
@@ -101,7 +101,7 @@
 		"composition": "silicon dioxide",
 		"formation": "forms when gas bubbles occur in lava and become trapped",
 		"colour": "pink",
-		"image": "https://lit-castle-74820.herokuapp.com/img/rose quartz.jpg",
+		"image": "https://lit-castle-74820.herokuapp.com/img/rose_quartz.jpg",
 		"metaphysical": ["self-love", "release emotional blockages", "connect to the heart"]
 	},
 	"emerald": {
