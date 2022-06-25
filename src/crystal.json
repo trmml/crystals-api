@@ -110,5 +110,26 @@
 		"colour": "green, sometimes with black imperfections",
 		"image": "https://lit-castle-74820.herokuapp.com/img/emerald.jpg",
 		"metaphysical": ["attracts true love", "balances relationships", "good luck stone"]
+	},
+	"blue moonstone":{
+		"composition": "sodium potassium aluminum silicate",
+		"formation": "orthocate & albite intermingle & stack into alternating layers as they cool",
+		"colour": "white and speckled black with rainbow flash",
+		"image": "https://lit-castle-74820.herokuapp.com/img/blue_moonstone.jpg",
+		"metaphysical": ["increases feminine energy", "increases fertility", "provides calmness", "new beginnings"]
+	},
+	"pink opal": {
+		"composition": "silicon dioxide & water",
+		"formation": "when water runs through the earth, it picks up silica & fills cracks in the earth; water evaporates, leaving behind a silicon deposit",
+		"colour": "pink and brown",
+		"image": "https://lit-castle-74820.herokuapp.com/img/pink_opal.jpg",
+		"metaphysical": ["gentle protective", "emotional balance", "brings a sense of peace & hope "]
+	},
+	"lepidolite": {
+		"composition": "potassium lithium & iron oxide (in differing amounts)",
+		"formation": "forms in environments with high lithium concentration",
+		"colour": "purple",
+		"image": "https://lit-castle-74820.herokuapp.com/img/lepidolite.jpg",
+		"metaphysical": ["nurturing", "calming", "helps treat addiction"]
 	}
 }
