@@ -4,6 +4,20 @@ body {
     font-family: "SF Display Pro", system-ui;
 }
 
-ul { list-style: none; }
-li, input { margin: 5px; padding: 5px; }
+input { margin: 5px; padding: 5px; }
 input[type=text]{ max-width: 25%; }
+
+#crystals {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+ul {
+    list-style: none;
+    display: table;
+    margin: 0 auto;
+    width: 50%;
+}
+
+li { display: inline; padding: 5px; }
