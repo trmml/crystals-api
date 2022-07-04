@@ -1,6 +1,5 @@
 body {
     text-align: center;
-    padding-top: 15vh;
     font-family: "SF Display Pro", system-ui;
 }
 
@@ -28,3 +27,8 @@ li.tag {
     background-color: #DDDDDD; }
 
 img { max-width: 30%; }
+
+footer {
+    background-color: rgb(230, 230, 230);
+    padding: 8vh;
+}
