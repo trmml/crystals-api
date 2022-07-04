@@ -1,7 +1,7 @@
 crystal api
 ===========
 
-public: web/search
+https://crystal-identifier.herokuapp.com/web/search
 
 endpoints
 ---------
