@@ -22,4 +22,9 @@ ul {
 
 li { display: inline; padding: 5px; }
 
+li.tag {
+    padding: 8px;
+    margin: 8px;
+    background-color: #DDDDDD; }
+
 img { max-width: 30%; }

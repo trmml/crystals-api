@@ -1,9 +1,12 @@
 extends layout
 
 block layout-content
+    a(href="/web/search" style="float: left;") back
+    
     - var crystal = query.replace(/\s+/g,"_")
     img(src=`/img/${crystal}.jpg`)
     h1(class="title")= query
     ul
         each val in result
-            li= val
+            unless val.includes("http")
+                li(class="tag")= val

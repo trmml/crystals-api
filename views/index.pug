@@ -3,7 +3,10 @@ extends layout
 block layout-content
   h1(class="title") Crystal Identifier
   form(action="/api/search" method="post")
-    input(class="input" type="text", name="query" placeholder="amethyst")
+    - var keys = Object.keys(crystals);
+    - var c = [keys[ keys.length * Math.random() << 0]][0];
+
+    input(class="input" type="text", name="query" placeholder=c)
     input(class="button is-primary" type="submit" value="Search")
   
   div(id="crystals")
