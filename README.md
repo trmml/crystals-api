@@ -1,6 +1,8 @@
 crystal api
 ===========
 
+public: web/search
+
 endpoints
 ---------
 
