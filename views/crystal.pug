@@ -1,6 +1,8 @@
 extends layout
 
 block layout-content
+    - var crystal = query.replace(/\s+/g,"_")
+    img(src=`/img/${crystal}.jpg`)
     h1(class="title")= query
     ul
         each val in result

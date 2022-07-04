@@ -10,4 +10,6 @@ block layout-content
     ul
       each crystal in Object.keys(crystals)
         li
-          a(href=`/web/${crystal}`)= crystal
+          a(href=`/web/${crystal}`)
+            - var crystal = crystal.replace(/\s+/g,"_")
+            img(src=`/img/${crystal}.jpg`)
