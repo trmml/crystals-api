@@ -3,35 +3,35 @@
 		"composition": "silicon dioxide",
 		"formation": "forms when gas bubbles occur in lava and become trapped",
 		"colour": "purple",
-		"image": "https://lit-castle-74820.herokuapp.com/img/amethyst.jpg",
+		"image": "amethyst.jpg",
 		"metaphysical": ["calming", "healing", "especially for headaches", "fatigue, & anxiety"]
 	},
 	"clear quartz": {
 		"composition": "silicon dioxide",
 		"formation": "forms when gas bubbles occur in lava and become trapped",
 		"colour": "colourless or appears white",
-		"image": "https://lit-castle-74820.herokuapp.com/img/clear_quartz.jpg",
+		"image": "clear_quartz.jpg",
 		"metaphysical": ["master healer for all ailments", "amplifies the healing vibration of other stones placed nearby"]
 	},
 	"moss agate": {
 		"composition": "silicon dioxide, commonly featuring manganese or iron",
 		"formation": "formed from weathered volcanic rock",
 		"colour": "colourless with specks of white, green, blue, or brown",
-		"image": "https://lit-castle-74820.herokuapp.com/img/moss_agate.jpg",
+		"image": "moss_agate.jpg",
 		"metaphysical": ["gentle healing", "promotes tranquility", "cures physical ailments (inflammation, cold & flu)"]
 	},
 	"carnelian": {
 		"composition": "silicon dioxide with iron impurity",
 		"formation": "formed from a combination of the silica minerals quartz and moganite",
 		"colour": "orange or red often featuring yellow",
-		"image": "https://lit-castle-74820.herokuapp.com/img/carnelian.jpg",
+		"image": "carnelian.jpg",
 		"metaphysical": ["promotes life-force", "vitality", "energizes body and mind"]
 	},
 	"spirit quartz": {
 		"composition": "silicon dioxide",
 		"formation": "forms when gas bubbles occur in lava and become trapped",
 		"colour": "purple, yellowish brown, light grey",
-		"image": "https://lit-castle-74820.herokuapp.com/img/spirit_quartz.jpg",
+		"image": "spirit_quartz.jpg",
 		"metaphysical": ["assists in spiritual journey", "uplifts and promotes vibration"]
 	},
 	"amazonite": {
@@ -45,42 +45,42 @@
 		"composition": "silicate of boron and aluminum",
 		"formation": "Pegmatite pockets underground that slowly cool and form crystals",
 		"colour": "black or pink",
-		"image": "https://lit-castle-74820.herokuapp.com/img/tourmaline.jpg",
+		"image": "tourmaline.jpg",
 		"metaphysical": ["repels negative energy", "highly protective"]
 	},
 	"pyrite": {
 		"composition": "iron sulfide",
 		"formation": "forms in sedimentary rocks in low oxygen environments",
 		"colour": "gold",
-		"image": "https://lit-castle-74820.herokuapp.com/img/pyrite.jpg",
+		"image": "pyrite.jpg",
 		"metaphysical": ["abundance", "good luck", "emotional strength"]
 	},
 	"sapphire": {
 		"composition": "aluminum oxide",
 		"formation": "the rocks in the earth’s crust were subjected to immense pressure & high temperatures, forcing the atoms to combine into metamorphic rocks",
 		"colour": "blue, purple",
-		"image": "https://lit-castle-74820.herokuapp.com/img/sapphire.jpg",
+		"image": "sapphire.jpg",
 		"metaphysical": ["enhances concentration", "boosts creativity", "promotes thinking"]
 	},
 	"black onyx": {
 		"composition": "Silicon dioxide ",
 		"formation": "formed in stalactites & stalagmites",
 		"colour": "black, sometimes with brown imperfections",
-		"image": "https://lit-castle-74820.herokuapp.com/img/black_onyx.jpg",
+		"image": "black_onyx.jpg",
 		"metaphysical": ["promotes stamina", "increases self-confidence", "reduces feelings of grief"]
 	},
 	"rainbow onyx": {
 		"composition": "Silicon dioxide",
 		"formation": "formed in stalactites & stalagmites",
 		"colour": "black with striped undertones",
-		"image": "https://lit-castle-74820.herokuapp.com/img/rainbow_onyx.jpg",
+		"image": "rainbow_onyx.jpg",
 		"metaphysical": ["balances emotions", "improves emotional strength", "decreases stress"]
 	},
 	"red jasper": {
 		"composition": "silicon dioxide",
 		"formation": "volcanic ash cemented into solids from silica solutions",
 		"colour": "red, or red with some black imperfections",
-		"image": "https://lit-castle-74820.herokuapp.com/img/red_jasper.jpg",
+		"image": "red_jasper.jpg",
 		"metaphysical": ["balance", "persistence", "strength", "courage"]
 	},
 	"ocean jasper": {
@@ -94,42 +94,42 @@
 		"composition": "silicon dioxide",
 		"formation": "volcanic ash cemented into solids from silica solutions",
 		"colour": "red, yellow",
-		"image": "https://lit-castle-74820.herokuapp.com/img/mookite.jpg",
+		"image": "mookite.jpg",
 		"metaphysical": ["decision making", "reduces stress", "feeling of wholeness", "peace"]
 	},
 	"rose quartz": {
 		"composition": "silicon dioxide",
 		"formation": "forms when gas bubbles occur in lava and become trapped",
 		"colour": "pink",
-		"image": "https://lit-castle-74820.herokuapp.com/img/rose_quartz.jpg",
+		"image": "rose_quartz.jpg",
 		"metaphysical": ["self-love", "release emotional blockages", "connect to the heart"]
 	},
 	"emerald": {
 		"composition": "Beryllium aluminum silicate ",
 		"formation": "Magma cools and leaves Beryllium behind in the remaining fluid",
 		"colour": "green, sometimes with black imperfections",
-		"image": "https://lit-castle-74820.herokuapp.com/img/emerald.jpg",
+		"image": "emerald.jpg",
 		"metaphysical": ["attracts true love", "balances relationships", "good luck stone"]
 	},
 	"blue moonstone":{
 		"composition": "sodium potassium aluminum silicate",
 		"formation": "orthocate & albite intermingle & stack into alternating layers as they cool",
 		"colour": "white and speckled black with rainbow flash",
-		"image": "https://lit-castle-74820.herokuapp.com/img/blue_moonstone.jpg",
+		"image": "blue_moonstone.jpg",
 		"metaphysical": ["increases feminine energy", "increases fertility", "provides calmness", "new beginnings"]
 	},
 	"pink opal": {
 		"composition": "silicon dioxide & water",
 		"formation": "when water runs through the earth, it picks up silica & fills cracks in the earth; water evaporates, leaving behind a silicon deposit",
 		"colour": "pink and brown",
-		"image": "https://lit-castle-74820.herokuapp.com/img/pink_opal.jpg",
+		"image": "pink_opal.jpg",
 		"metaphysical": ["gentle protective", "emotional balance", "brings a sense of peace & hope "]
 	},
 	"lepidolite": {
 		"composition": "potassium lithium & iron oxide (in differing amounts)",
 		"formation": "forms in environments with high lithium concentration",
 		"colour": "purple",
-		"image": "https://lit-castle-74820.herokuapp.com/img/lepidolite.jpg",
+		"image": "lepidolite.jpg",
 		"metaphysical": ["nurturing", "calming", "helps treat addiction"]
 	}
 }
